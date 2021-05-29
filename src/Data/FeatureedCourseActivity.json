@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "week": "week-1",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 80,
+         "complete": "completed"
+    },
+   
+    {
+        "id": 2,
+        "week": "week-2",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 60,
+         "complete": "completed"
+    },
+    
+    {
+        "id": 3,
+        "week": "week-3",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 100,
+         "complete": "completed"
+    },
+    
+    {
+        "id": 4,
+        "week": "week-4",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 100,
+         "complete": "completed"
+    },
+    
+    {
+        "id": 5,
+        "week": "week-5",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 100,
+         "complete": " completed"
+    },
+    
+    {
+        "id": 6,
+        "week": "week-6",
+        "title":"Fundamentals of Cryptocurre",
+        "Progress": 100,
+         "complete": "completed"
+    }
+]

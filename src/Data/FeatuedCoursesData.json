@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Intro to Blockchain",
+        "description": "Blockchain Cryptocurrency Fundamentals",
+        "earn": 30,
+        "modules": "8.3/10",
+        "status": 83
+    },
+    {
+        "id": 2,
+        "title": "Intro to Blockchain",
+        "description": "Blockchain Cryptocurrency Fundamentals",
+        "earn": 30,
+        "modules": "8.3/10",
+        "status": 83
+    },
+    {
+        "id": 3,
+        "title": "Intro to Blockchain",
+        "description": "Blockchain Cryptocurrency Fundamentals",
+        "earn": 30,
+        "modules": "8.3/10",
+        "status": 83
+    }
+   
+]

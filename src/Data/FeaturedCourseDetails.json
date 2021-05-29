@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "period": "week-1",
+        "activity": "Click Avatar",
+        "videoLink": "https://youtu.be/VZmd8EOj3UA",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Learn Solidity",
+        "completePercentage": "81% completed",
+        "module": " 8.1/10"
+    },
+    {
+        "id": 2,
+        "period": "week-2",
+        "activity": "Join Discord",
+        "videoLink": "https://youtu.be/rZ8fOWA7RFk",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Basic Cryptocurrency",
+        "completePercentage": "84% completed",
+        "module": " 8.4/10"
+    },
+    {
+        "id": 3,
+        "period": "week-3",
+        "activity": "Click Joinup",
+        "videoLink": "https://youtu.be/2XxHOrBl5qo",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Smart Contracts",
+        "completePercentage": "87% completed",
+        "module": " 8.7/10"
+    },
+    {
+        "id": 4,
+        "period": "week-3",
+        "activity": "Click Joinup",
+        "videoLink": "https://youtu.be/2XxHOrBl5qo",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Smart Contracts",
+        "completePercentage": "87% completed",
+        "module": " 8.7/10"
+    }, {
+        "id": 5,
+        "period": "week-3",
+        "activity": "Click Joinup",
+        "videoLink": "https://youtu.be/2XxHOrBl5qo",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Smart Contracts",
+        "completePercentage": "87% completed",
+        "module": " 8.7/10"
+    },
+    {
+        "id": 6,
+        "period": "week-3",
+        "activity": "Click Joinup",
+        "videoLink": "https://youtu.be/2XxHOrBl5qo",
+        "description": "Learn the top rated skill on the go..",
+        "title": "Smart Contracts",
+        "completePercentage": "87% completed",
+        "module": " 8.7/10"
+    }
+]

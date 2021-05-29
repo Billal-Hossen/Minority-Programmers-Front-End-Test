@@ -1,0 +1,11 @@
+.learn-page-banner{
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+border-radius: 4px;
+
+}
+.course-card{
+    background:  linear-gradient(110.62deg, rgba(255, 255, 255, 0.25) 6.39%, rgba(255, 255, 255, 0) 53.34%);
+    mix-blend-mode: normal;
+    backdrop-filter: blur(40px);
+    border-radius: 10px;
+}

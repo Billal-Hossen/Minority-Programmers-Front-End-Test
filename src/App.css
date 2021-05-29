@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,64 @@
   to {
     transform: rotate(360deg);
   }
+}
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+.btn-main {
+  background: #fd7709 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 50px;
+}
+
+.social-icon{
+  width: 50px;
+  height: 50px;
+  background: #1F2235;
+  text-align: center;
+  padding: 13px;
+  border-radius: 50%;
+  font-size: 20px;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  margin-left: 10px;
+
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+
+}
+.nav-bottom{
+  background-image: url(../src/images/Rectangle\ 839.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+
+}
+.word{
+  position: static;
+width: 806px;
+height: 212px;
+left: 0px;
+top: 0px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 106px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
 }

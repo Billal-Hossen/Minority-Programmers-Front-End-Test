@@ -1,0 +1,35 @@
+
+.incubator-page{
+    background-image: url(../../../images/Rectangle\ 615.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gradient-btn{
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+border-radius: 4px;
+}
+
+.nav-btn-word{
+    font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+}
+.advance-img-1{
+    background-image: url(../../../images/Rectangle\ 840\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.advance-img-2{
+    background-image: url(../../../images/Rectangle\ 849.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.advance-img-3{
+    background-image: url(../../../images/Rectangle\ 842.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
