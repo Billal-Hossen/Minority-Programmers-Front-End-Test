@@ -1,5 +1,5 @@
 import React from 'react';
-import navlogo from "../../../../images/unnamed.png"
+import navlogo from "../../../../images/brand.png"
 import { FaFacebook, FaLinkedin, FaInstagram, FaPlay, FaGithub, FaTwitter } from "react-icons/fa"
 
 
@@ -12,13 +12,8 @@ const HeaderNav = () => {
             <Container>
                 <Navbar.Brand as={Link} to="/">
                     <span style={{ fontSize: "35px", fontWeight: "bold", color: "#2A8477" }}>
-                        <img
-                            src={navlogo}
-                            width="50"
-                            height="50"
-                            className="d-inline-block align-top"
-                            alt="React Bootstrap logo"
-                        />
+                      
+                        <img src={navlogo} alt="" />
                     </span>
                 </Navbar.Brand>
 
@@ -31,7 +26,7 @@ const HeaderNav = () => {
 
 
                 </div>
-                <Navbar.Collapse id="basic-navbar-nav">
+                <Navbar.Collapse id="basic-navbar-nav" style={{fontWeight:"bold",fontSize:"20px"}}>
                     <Nav className="ml-auto ">
 
                     <Nav.Link className=" item" as={Link} to="/home">Home</Nav.Link>

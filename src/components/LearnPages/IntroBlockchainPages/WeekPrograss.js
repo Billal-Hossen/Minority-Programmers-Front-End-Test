@@ -23,7 +23,7 @@ const WeekPrograss = () => {
 
 
     return (
-        <div className="p-0">
+        <div className="p-0" style={{background:"#151371"}}>
             <HeaderNav />
 
 

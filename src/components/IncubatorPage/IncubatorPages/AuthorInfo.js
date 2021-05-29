@@ -10,11 +10,7 @@ import courseData from '../../../Data/MyCoursesData.json'
 import FeatureCard from './FeatureCard';
 import { useHistory } from 'react-router';
 import IncubatorNav from './IncubatorNav';
-
-// const image = '/images/avatar/small/laura.jpg'
-// const date = '3 days ago'
-// const summary = 'Laura Faucet created a post'
-// const extraText = "Have you seen what's going on in Israel? Can you believe it."
+import frame from '../../../images/Frame 313.png'
 
 
 
@@ -23,22 +19,22 @@ const AuthorInfo = () => {
         {
             name:"Edmund Kitan",
             position:"Founder",
-            image:"https://ibb.co/kMRYmgV"
+            image:"https://www.linkpicture.com/q/img_avatar_1.png"
         },
         {
             name:"Olarenwaju Cesar",
             position:"Co-Founder",
-            image:"https://www.google.com/search?q=avatar+image&sxsrf=ALeKk02x4LgXFCA5SHd0-IL4LsNeegYSrA:1622091712356&tbm=isch&source=iu&ictx=1&fir=5gYUCMTyYfVWCM%252CIty-VeKC8FSPXM%252C_&vet=1&usg=AI4_-kSxdyRSe2cEp4dFF7hmGiRFDE6M1g&sa=X&ved=2ahUKEwjA3rrCiunwAhUw7GEKHbRCBn4Q9QF6BAgREAE&biw=1366&bih=625#imgrc=Jjq5a5o5G80fpM"
+            image:"https://www.linkpicture.com/q/img_avatar_1.png"
         },
         {
             name:"Uzo Amanda",
             position:"Head of Growth",
-            image:"https://www.google.com/search?q=avatar+image&sxsrf=ALeKk02x4LgXFCA5SHd0-IL4LsNeegYSrA:1622091712356&tbm=isch&source=iu&ictx=1&fir=5gYUCMTyYfVWCM%252CIty-VeKC8FSPXM%252C_&vet=1&usg=AI4_-kSxdyRSe2cEp4dFF7hmGiRFDE6M1g&sa=X&ved=2ahUKEwjA3rrCiunwAhUw7GEKHbRCBn4Q9QF6BAgREAE&biw=1366&bih=625#imgrc=Jjq5a5o5G80fpM"
+            image:"https://www.linkpicture.com/q/img_avatar_1.png"
         },
         {
             name:"Donald Duke",
             position:"Head of Project",
-            image:"https://www.google.com/search?q=avatar+image&sxsrf=ALeKk02x4LgXFCA5SHd0-IL4LsNeegYSrA:1622091712356&tbm=isch&source=iu&ictx=1&fir=5gYUCMTyYfVWCM%252CIty-VeKC8FSPXM%252C_&vet=1&usg=AI4_-kSxdyRSe2cEp4dFF7hmGiRFDE6M1g&sa=X&ved=2ahUKEwjA3rrCiunwAhUw7GEKHbRCBn4Q9QF6BAgREAE&biw=1366&bih=625#imgrc=Jjq5a5o5G80fpM"
+            image:"https://www.linkpicture.com/q/img_avatar_1.png"
         }
     ]
     const history=useHistory()
@@ -55,13 +51,13 @@ const AuthorInfo = () => {
               <div className="col-md-2">
               <div className="d-flex justify-content-between">
                <img
-                        src=''
+                        src={frame}
                         width="50"
                         height="50"
                         className="d-inline align-top m-3"
                         // alt="React Bootstrap logo"
                     />
-                <h1>Hello</h1>
+                <h4>Mangoswap</h4>
                </div>
               
                
